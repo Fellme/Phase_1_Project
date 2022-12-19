@@ -1,1 +1,2 @@
-# Phase_1_Project
+# Strategic Launching of Microsoft Entertainment Studios
+
