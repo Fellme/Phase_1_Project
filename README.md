@@ -32,7 +32,7 @@ The Movie Database (TMDb) required switching out numeric genre keys with text. C
 ![image](https://user-images.githubusercontent.com/20844445/209029597-50b7f6bc-42f7-4806-be54-da1301f7cfab.png)
 The initial investment of any project should be lower than the profit. Action and Adventure movies require a higher production budget, or initial investment, that overshadows profit returns. Biographies, Comedies, and Dramas do not require as much financial backing to make, so the return is much higher.
 
-![image](https://user-images.githubusercontent.com/20844445/209029194-f8942ad1-6545-4ca8-bcd3-d4d7c1bc92f2.png)
+![image](https://user-images.githubusercontent.com/20844445/209188318-8a43adda-4487-44ae-b13d-55bc8518ef2c.png)
 Based on the performance of studios who had movies with a domestic gross of at least $29,000,000 and a total profit of at least $139,000,000, we can see Walt Disney/Fox generated the highest average. When we dive further into the structure of this congolmerate, it becomes evident that their profits are brought in from numerous subsidiary companies. This strategy of acquiring smaller studios could provide a higher revenue for Microsoft than trying to start its own studio. Or, if Microsoft wanted to get bought out by one of the "Major Studios" above, they could still release movies under the name Microsoft Studios with split profit between themselves and the larger studio. Being an independent studio does come with its own autonomy;however, trying to compete against each of the studios listed above may prove challenging due to the hold they currently have over the industry. 
 
 ![image](https://user-images.githubusercontent.com/20844445/209029715-107c9902-549d-406f-9cfa-d90f1736979c.png)
