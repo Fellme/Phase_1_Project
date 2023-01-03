@@ -6,9 +6,9 @@ Analysis of movie data from IMDB, BoxOffice Mojo, TMDB, and The Numbers provided
 ## Business Understanding
 The gateway to Microsoft successfully launching original content from their own entertainment studio relys on answering the following questions:
 
-Which genres provide the largest return on investment?
-How does the studio distributing the movie and the time of year it is released alter boxoffice performance?
-Does the runtime of a film influence the popularity?
+	* Which genres provide the largest return on investment?
+	* How does the studio distributing the movie and the time of year it is released alter boxoffice performance?
+	* Does the runtime of a film influence the popularity?
 
 ## Data
 Large datasets from four major entermainment review websites were used to create a hollistic understanding. All of the tools required to filter, join, and visualize the sets are seen below.
