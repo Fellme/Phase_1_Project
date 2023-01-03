@@ -57,3 +57,13 @@ Overall, paying attention to the strategy of the high-performing studios purchas
 
 ## Next Steps
 Beginning research into purchasable studios of medium to high value for Microsoft to bring on under their entertainment name. Thi mirrors that steps taken by current competitors. Connecting high performing producers, directors, and writers to the above data for potential partnership decisions. MPAA ratings should also be taken into account for popularity and profit.
+
+## Repository Structure
+
+```
+├── ZippedData
+├── Fell-Phase-1.ipynb
+├── README.md
+├── presentation.pdf
+
+```
