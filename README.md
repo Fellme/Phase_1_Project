@@ -75,15 +75,15 @@ The genres whose production budget is lower than their return on investment are 
 ![image](https://user-images.githubusercontent.com/20844445/210696487-7ec1e093-3e3c-4801-a6ef-ec444da0a504.png)
 
 # Conclusion
-- Acquiring smaller studios with promising content, in order to potentially boost profits and tap into established competition.
+- **Acquiring smaller studios** with promising content, in order to potentially boost profits and tap into established competition.
 
-- Produce cost-effective genres: Drama, Comedy, and Biographies
+- **Produce** cost-effective genres: **Drama, Comedy, and Biographies**
 
-- Release in the fall, specifically November to maximize profits
+- Release in the **fall, specifically November** to maximize profits
 
-- Comedies should be no longer than 1 hr. 45 minutes
+- **Comedies** should be **no longer than 1 hr. 45 minutes**
 
-- Adventure, Drama, and Thrillers should be at least 2hrs. 49 minutes
+- **Adventure, Drama, and Thrillers** should be **at least 2hrs. 49 minutes**
 
 # Next Steps
 - Beginning research into purchasable studios of medium to high value for Microsoft to bring on under their entertainment name. This mirrors that steps taken by current competitors.
