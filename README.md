@@ -90,7 +90,7 @@ The genres whose production budget is lower than their return on investment are 
 - Connecting high performing producers, directors, and writers to the above data for potential partnership decisions.
 - MPAA ratings should also be taken into account for popularity and profit.
 
-#For More Information
+# For More Information
 Please contact Morgan Fell: [morgan13.fell@gmail.com](morgan13.fell@gmail.com)
 
 # Repository Structure
