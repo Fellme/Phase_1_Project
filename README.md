@@ -48,7 +48,7 @@ To prepare the data for visualizations I will be using the following steps to cl
 - Walt Disney and Fox have the highest profits. 
 - I noticed in researching that all of the studios listed have bought or acquired through purchase many studios who contribute to their profit
 - This is a saturated market with established competition. Microsoft may want to look into purchases small to medium studios in an effort to mirror the success of Walt Disney and Fox
-- 
+
 ![image](https://user-images.githubusercontent.com/20844445/210695657-831aaf15-131c-4af0-8000-1680946f114e.png)
 
 
