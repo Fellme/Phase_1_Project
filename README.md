@@ -45,9 +45,12 @@ To prepare the data for visualizations I will be using the following steps to cl
 # Results
 
 **Which genre(s) produced the largest return on investment?**
-- Walt Disney and Fox have the highest profits. 
-- I noticed in researching that all of the studios listed have bought or acquired through purchase many studios who contribute to their profit
-- This is a saturated market with established competition. Microsoft may want to look into purchases small to medium studios in an effort to mirror the success of Walt Disney and Fox
+
+The genres whose production budget is lower than their return on investment are the most cost-effective when starting a studio. This way Microsoft can spend little money up front with large returns.
+
+- Thriller, Drama, and Comedy are the only genres to meet this goal.
+- Adventure, Action, and Sci-Fi are popular but would require microsoft to invest a lot of money upfront running the risk of a negative return.
+- I assume the costs are influenced by the excessive special effects budgets
 
 ![image](https://user-images.githubusercontent.com/20844445/210695657-831aaf15-131c-4af0-8000-1680946f114e.png)
 
