@@ -1,5 +1,5 @@
 # Strategic Launching of Microsoft Entertainment Studios
-Morgan Fell (https://github.com/Fellme) 
+[Morgan Fell](https://github.com/Fellme)
 
 # Overview
 I analyzed movie data from various sources to determine the best strategy for Microsoft's entrance into the entertainment industry. We selected data on popular movies released in the last 10 years and analyzed factors such as return on investment (RoI), studio profits, release timing, and the relationship between runtime and genre ranking. Our findings showed that the Walt-Disney-Fox conglomerate had the highest studio profits, suggesting that Microsoft could adopt a similar business model. We also found that genres such as Drama, Comedy, and Biographies have lower production budgets and higher RoIs. November releases tend to be the most profitable, though movie length can affect ratings.
@@ -85,12 +85,15 @@ The genres whose production budget is lower than their return on investment are 
 
 - Adventure, Drama, and Thrillers should be at least 2hrs. 49 minutes
 
-## Next Steps
+# Next Steps
 - Beginning research into purchasable studios of medium to high value for Microsoft to bring on under their entertainment name. This mirrors that steps taken by current competitors.
 - Connecting high performing producers, directors, and writers to the above data for potential partnership decisions.
 - MPAA ratings should also be taken into account for popularity and profit.
 
-## Repository Structure
+#For More Information
+Please contact Morgan Fell: [morgan13.fell@gmail.com](morgan13.fell@gmail.com)
+
+# Repository Structure
 
 ```
 ├── ZippedData
