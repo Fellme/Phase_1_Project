@@ -1,16 +1,16 @@
 # Strategic Launching of Microsoft Entertainment Studios
-Morgan Fell 
+Morgan Fell (https://github.com/Fellme) 
 
-## Overview
+# Overview
 I analyzed movie data from various sources to determine the best strategy for Microsoft's entrance into the entertainment industry. We selected data on popular movies released in the last 10 years and analyzed factors such as return on investment (RoI), studio profits, release timing, and the relationship between runtime and genre ranking. Our findings showed that the Walt-Disney-Fox conglomerate had the highest studio profits, suggesting that Microsoft could adopt a similar business model. We also found that genres such as Drama, Comedy, and Biographies have lower production budgets and higher RoIs. November releases tend to be the most profitable, though movie length can affect ratings.
 
-## Business Understanding
+# Business Understanding
 The gateway to Microsoft successfully launching original content from their own entertainment studio relys on answering the following questions:
 1. Which genres provide the largest return on investment?
 2. How does the studio distributing the movie and the time of year it is released alter boxoffice performance?
 3. Does the runtime of a film influence the popularity?
 
-## Data
+# Data
 Large datasets from four major entermainment review websites were used to create a hollistic understanding. All of the tools required to filter, join, and visualize the sets are seen below.
 #### IMDb
 The Internet Movie Database(IMDb) is a website owned by Amazon that provides information about movies, TV shows, and other forms of entertainment.
@@ -21,7 +21,7 @@ The Numbers is a website that provides financial data and analysis on the film a
 #### BoxOffice Mojo
 Box Office Mojo is a website that tracks box office data for movies and other forms of entertainment.
 
-## Methods
+# Methods
 To prepare the data for visualizations I will be using the following steps to clean each set to answer the questions listed at the beginning.
 
 **Question 1:** Both SQL tables, *movie_basics* and *movie_ratings* will be filtered for release dates and ratings. This will then be joined the cleaned *tn_data_og* set using the primary title. Two new cou=lumns will be added for the month of release and the return on investment of genres. Only genres that met the average number of films will be used for visuals. 
@@ -42,7 +42,7 @@ To prepare the data for visualizations I will be using the following steps to cl
 8. Combine duplicate studios, such as Lionsgate Films and Lionsgate Studio.
 9. Assign parent studios to each film using the abbreviations to create a dictionary
 
-## Results
+# Results
 
 **Which genre(s) produced the largest return on investment?**
 - Walt Disney and Fox have the highest profits. 
