@@ -51,6 +51,11 @@ To prepare the data for visualizations I will be using the following steps to cl
 
 ![image](https://user-images.githubusercontent.com/20844445/210695657-831aaf15-131c-4af0-8000-1680946f114e.png)
 
+**Does the studio influence movie success?**
+- The studio producing most successful films is Walt Disney and Fox. Yes, studios do have an impact on movie success. 
+- I noticed in researching that all of the studios listed have bought or acquired through purchase many studios who contribute to their profit
+- This is a saturated market with established competition. Microsoft may want to look into purchases small to medium studios in an effort to mirror the success of Walt Disney and Fox
+![image](https://user-images.githubusercontent.com/20844445/210697010-b1ef8f4a-2c92-49a6-9bba-53d89a9c4aaa.png)
 
 
 **When is the best time to release films?**
