@@ -74,7 +74,7 @@ The genres whose production budget is lower than their return on investment are 
 
 ![image](https://user-images.githubusercontent.com/20844445/210696487-7ec1e093-3e3c-4801-a6ef-ec444da0a504.png)
 
-## Conclusion
+# Conclusion
 - Acquiring smaller studios with promising content, in order to potentially boost profits and tap into established competition.
 
 - Produce cost-effective genres: Drama, Comedy, and Biographies
